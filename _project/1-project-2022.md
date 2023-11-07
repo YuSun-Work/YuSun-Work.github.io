@@ -2,7 +2,7 @@
 title: "Image Caption"
 collection: project
 type: "Finished"
-permalink: /project/2023-A-project-1
+permalink: /project/1-project-2022
 venue: "Lanzhou University"
 date: 2022-1-1
 location: "Lanzhou, China"
