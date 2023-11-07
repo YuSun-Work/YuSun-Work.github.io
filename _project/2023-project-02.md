@@ -2,7 +2,7 @@
 title: "Semantic Image Editor"
 collection: project
 type: "Paper Stage"
-permalink: /project/2023-project-4
+permalink: /project/2023-project-02
 venue: "Lanzhou University"
 date: 2023-1-1
 location: "Lanzhou, China"
