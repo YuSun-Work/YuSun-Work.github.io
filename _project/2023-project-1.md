@@ -1,9 +1,9 @@
 ---
 title: "Image Caption"
 collection: project
-type: "Unfinished"
+type: "Finished"
 permalink: /project/2023-A-project-1
-data 2022-4-1
+data: 2022-4-1
 venue: "Lanzhou University"
 
 location: "Lanzhou, China"
