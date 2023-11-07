@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "MAE+3D Reconstruction"
 collection: project
-type: "Workshop"
+type: "Finished"
 permalink: /project/2023-project-2
 venue: "Lanzhou University"
-date: 2023-01-01
-location: "City, Country"
+date: 2022-01-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
