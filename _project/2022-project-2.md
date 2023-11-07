@@ -2,7 +2,7 @@
 title: "MAE+3D Reconstruction"
 collection: project
 type: "Finished"
-permalink: /project/2-project-2022
+permalink: /project/2022-project-2
 venue: "Lanzhou University"
 date: 2022-01-01
 ---
