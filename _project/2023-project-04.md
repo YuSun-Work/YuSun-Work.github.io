@@ -2,7 +2,7 @@
 title: "Multimodal Medical LLM"
 collection: project
 type: "Paper Stage"
-permalink: /project/2023-project-6
+permalink: /project/2023-project-04
 venue: "Lanzhou University"
 date: 2023-1-1
 location: "Lanzhou, China"
