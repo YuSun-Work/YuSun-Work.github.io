@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  project:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _project
   - scope:
       path: ""
-      type: teaching
+      type: project
     values:
       layout: single
       author_profile: true
