@@ -4,7 +4,7 @@ collection: project
 type: "Workshop"
 permalink: /project/2023-project-2
 venue: "Lanzhou University"
-date: 2015-01-01
+date: 2023-01-01
 location: "City, Country"
 ---
 
