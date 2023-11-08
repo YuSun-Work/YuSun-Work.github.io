@@ -2,7 +2,7 @@
 title: "Image Caption"
 collection: project
 type: "Finished"
-permalink: [/project/2022-project-01](https://dblp.uni-trier.de/)
+permalink: https://dblp.uni-trier.de
 venue: "Lanzhou University"
 date: 2022-1-1
 location: "Lanzhou, China"
