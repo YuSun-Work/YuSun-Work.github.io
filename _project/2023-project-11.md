@@ -1,5 +1,5 @@
 ---
-title: "Meta Learning"
+title: "GNN Timing Sequence Prediction"
 collection: project
 type: "Idea Stage"
 permalink: /project/2023-project-11
