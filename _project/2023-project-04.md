@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Medical LLM"
+title: "Web Multimodal Medical LLM"
 collection: project
 type: "Paper Stage"
 permalink: /project/2023-project-04
