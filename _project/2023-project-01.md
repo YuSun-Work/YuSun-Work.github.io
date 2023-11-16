@@ -1,5 +1,5 @@
 ---
-title: "Unimodal Medical LLM + Web Search"
+title: "Unimodal Law LLM + Web Search"
 collection: project
 type: "Paper Stage"
 permalink: /project/2023-project-01
