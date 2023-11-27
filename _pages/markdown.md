@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /Campany/
+title: "Campany"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /Campany.html
 ---
 
 
