@@ -1,1 +1,6 @@
-Stay tuned !
+---
+title: "Stay tuned !"
+collection: publications
+---
+
+
