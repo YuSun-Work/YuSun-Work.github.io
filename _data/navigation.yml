@@ -10,13 +10,13 @@ main:
     url: /project/
     
   - title: "App"
-    url: /portfolio/
+    url: /App/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /Blog/
     
   - title: "CV"
     url: /cv/
     
   - title: "Company"
-    url: /markdown/
+    url: /Company/
