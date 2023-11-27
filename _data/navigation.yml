@@ -9,8 +9,8 @@ main:
   - title: "Project"
     url: /project/
     
-  - title: "App"
-    url: /App/
+  # - title: "App"
+  #   url: /App/
         
   - title: "Blog Posts"
     url: /Blog/
