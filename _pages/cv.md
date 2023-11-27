@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Lanzhou, Lanzhou University, 2021 (Top 30% GPA ranking)
 
-  
+
 Skills
 ======
 * Python
