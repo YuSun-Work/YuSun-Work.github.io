@@ -1,7 +1,7 @@
 ---
 title: "Generative Recommendation Systems"
 collection: project
-type: "Model Stage"
+type: "Idea Stage"
 permalink: /project/2023-project-08
 venue: "Lanzhou University"
 date: 2023-1-1
