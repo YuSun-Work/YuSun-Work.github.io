@@ -30,6 +30,10 @@ MAE+3D Reconstruction
 Unimodal Medical LLM + Web Search
 
 <br>
+### Agent
+Emotion-Driven Memory Retrieval
+
+<br>
 ### Recommendation Systems
 Generative Recommendation Systems
 
