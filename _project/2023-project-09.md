@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Emotion Recognition"
 collection: project
-type: "Model Stage"
+type: "Idea Stage"
 permalink: /project/2023-project-09
 venue: "Lanzhou University"
 date: 2023-1-1
