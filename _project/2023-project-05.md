@@ -1,7 +1,7 @@
 ---
 title: "Emotion-Driven Memory Retrieval"
 collection: project
-type: "Model Stage"
+type: "Paper Stage"
 permalink: /project/2023-project-05
 venue: "Lanzhou University"
 date: 2023-1-1
