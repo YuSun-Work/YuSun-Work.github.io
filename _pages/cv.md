@@ -22,6 +22,7 @@ Skills
 * AI
   * LLM
   * Multi-modal
+  * Agent
 
 
   
