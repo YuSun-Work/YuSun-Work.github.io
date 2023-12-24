@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Lanzhou, Lanzhou University, 2021 (Top 30% GPA ranking)
+* B.S. in Lanzhou, Lanzhou University, 2021 (Top 20% GPA ranking)
 
 
 Skills
