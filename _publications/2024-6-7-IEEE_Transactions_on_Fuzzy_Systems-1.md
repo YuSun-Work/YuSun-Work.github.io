@@ -1,7 +1,7 @@
 ---
 title: "Deep Spatio-Temporal Fuzzy Model for NDVI Forecasting"
 collection: publications
-permalink: /publication/2024-6-7-IEEE Transactions on Fuzzy Systems-1
+permalink: /publication/2024-6-7-IEEE_Transactions_on_Fuzzy_Systems-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-6-7
 venue: 'IEEE Transactions on Fuzzy Systems'
